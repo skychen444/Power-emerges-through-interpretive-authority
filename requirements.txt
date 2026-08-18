@@ -1,0 +1,11 @@
+# Core computer-vision and numerical dependencies
+numpy
+opencv-python
+ultralytics
+
+# Serial-port diagnostics
+pyserial
+
+# AxiDraw Python API
+# Official installation is distributed by AxiDraw as a ZIP package:
+# python -m pip install https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip
